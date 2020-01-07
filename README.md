@@ -13,4 +13,4 @@ to run blog
 
 note to self: need to setup environmental variables, currently some of the api urls and mongodb are hardcoded.
 
-view demo here http://khanhthai.com:3001/ -- will be integrate with my personal site soon.
+view demo here http://khanhthai.com:3001/ -- will be integrated into my personal site soon.
