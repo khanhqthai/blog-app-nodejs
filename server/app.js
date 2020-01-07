@@ -23,7 +23,7 @@ if(!isProduction) {
   app.use(errorHandler());
 }
 
-mongoose.connect('mongodb://developer:P%40ssw0rd@96.126.103.213:27017/blog', {useNewUrlParser: true, useUnifiedTopology: true});
+mongoose.connect('MONGODB_IP_HERE', {useNewUrlParser: true, useUnifiedTopology: true});
 mongoose.set('debug', true);
 
 //Default homepage handler
