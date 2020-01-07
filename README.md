@@ -12,3 +12,5 @@ to run blog
 2. start npm start, in folder /client -- this will run webpack and run the frontend.
 
 note to self: need to setup environmental variables, currently some of the api urls and mongodb are hardcoded.
+
+view demo here http://khanhthai.com:3001/ -- will be integrate with my personal site soon.
