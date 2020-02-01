@@ -11,6 +11,4 @@ to run blog
    will need to prodvide mongodb ip to connect to in app.js
 2. start npm build, in folder /client -- this will run webpack server and serve frontend.
 
-note to self: need to setup environmental variables, currently some of the api urls and mongodb are hardcoded.
-
 view demo here http://khanhthai.com:3001/ -- will be integrated into my personal site soon.
