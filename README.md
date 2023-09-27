@@ -8,4 +8,4 @@ to run blog
    will need to prodvide mongodb ip to connect to in app.js
 2. start npm build, in folder /client -- this will run webpack server and serve frontend.
 
-view demo here http://khanhthai.com:3001/
+
